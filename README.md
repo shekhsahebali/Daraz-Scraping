@@ -1,5 +1,5 @@
 # Daraz-Scraping
-A Scraping tools for Daraz website
+A web scraping project designed to extract product data from Daraz (an e-commerce platform). The script automates the collection of essential product information such as product names, prices, ratings, reviews, etc.
 
 ## Recommended IDE Setup
 
@@ -50,3 +50,5 @@ pip3 install -r requirements.txt
 ```
 ### Run the Script
 Done!!
+
+
